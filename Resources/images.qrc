@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>decision_tree.png</file>
+    <file>NAK.png</file>
+    <file>NAK1.png</file>
+    <file>DT5.gif</file>
+    <file>DT4.png</file>
+    <file>DT3.png</file>
+    <file>Math3.png</file>
+    <file>Math4.png</file>
+    <file>Math3.png</file>
+    <file>incognito1.png</file>
+    <file>NN3.png</file>
+    <file>NN1.png</file>
+    <file>incognito2.png</file>
+    <file>Katja_Mueller.jpeg</file>
+    <file>DT1.png</file>
+    <file>DT.png</file>
+    <file>NN.png</file>
+    <file>Beer.jpeg</file>
+    <file>incognito.png</file>
+    <file>not-ok.jpg</file>
+    <file>ok Kopie.jpg</file>
+    <file>not-ok.jpg</file>
+    <file>ok.jpg</file>
+  </qresource>
+</RCC>
